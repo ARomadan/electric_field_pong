@@ -1,7 +1,7 @@
 electric_field_pong
 ===================
 
-A well known and loved game of pong with a little twist
+A well known and loved game of pong with a little twist...
 
 DESCRIPTION: 
     This is exactly like pong except some of the blocks 
